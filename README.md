@@ -13,8 +13,8 @@
        
      
 <a href="https://github.com/GuilhermeCamargoL">
-<img src="https://github-readme-stats.vercel.app/api?username=GuilhermeCamargoL&theme=radical" width="150em" heigth="150em">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCamargoL&layout=compact&theme=radical" width="150em" height="150em">
+<img src="https://github-readme-stats.vercel.app/api?username=GuilhermeCamargoL&theme=radical" height="180em">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCamargoL&layout=compact&theme=radical" height="180em">
 </a>
 
 
