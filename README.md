@@ -13,7 +13,7 @@
        
      
      
-[![GuilhermeCamargoL GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeCamargoL&show_icons=true&theme=radical&count_private=true&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/GuilhermeCamargoL)
+[![GuilhermeCamargoL GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeCamargoL&theme=radical)](https://github.com/GuilhermeCamargoL)
 <!-- <div>
 <a href="https://github.com/GuilhermeCamargoL">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCamargoL&layout=compact&langs_count=7&theme=radical"/>
