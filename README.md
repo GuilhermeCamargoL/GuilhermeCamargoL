@@ -13,8 +13,8 @@
        
      
 <a href="https://github.com/GuilhermeCamargoL">
-<img src="https://github-readme-stats.vercel.app/api?username=GuilhermeCamargoL&theme=radical" height="180em">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCamargoL&layout=compact&theme=radical" height="180em">
+<img src="https://github-readme-stats.vercel.app/api?username=GuilhermeCamargoL&theme=radical&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180em">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCamargoL&layout=compact&theme=radical&langs_count=7" height="180em">
 </a>
 
 
