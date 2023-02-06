@@ -1,5 +1,5 @@
 # 👋 Hello! Welcome to my Github profile.
-## My name is Guilherme and my nickname is "Guir"!
+## My name is Guilherme and my nickname is "Gui"!
 
 - 🔭 I’m currently working as a fullstack web.
 - 🌱 I'm studying systems analysis and development.
